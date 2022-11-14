@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Francesca Martini, italian hooman
 - 👀 I’m interested in Front-End Development, Graphic, Videogames, all shape of Art, Books and Music
 - 🌱 I’m currently learning HTML, CSS, JS, ANGULAR
+- 📚 Student @ Start2Impact University
 
 
 <!---
